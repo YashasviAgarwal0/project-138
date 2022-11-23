@@ -1,0 +1,21 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.h
+{
+    width: 100% !important;
+}
+
+.h h1 
+{
+    display: inline !important;
+
+}
+
+.h button
+{
+    float: right;
+    border: 1px solid blue;
+}
